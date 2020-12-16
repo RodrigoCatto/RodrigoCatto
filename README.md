@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://github.com/RodrigoCatto/McJetson" target="_blank">
-    <img width="40%" height="40%" src="https://github.com/RodrigoCatto/McJetson/blob/master/Images/McJetson_Render.png">
+    <img width="60% height="60%" src="https://github.com/RodrigoCatto/McJetson/blob/master/Images/McJetson_Render.png">
   </a>
 </p>
 
