@@ -16,7 +16,7 @@
     <img width="40%" height="40%" src="https://github.com/RodrigoCatto/McJetson/blob/master/Images/McJetson_Render.png">
   </a>
   <a href="https://github.com/RoboticaUtnFrba/create_autonomy" target="_blank">
-    <img width="40%" height="40%" src="https://i.imgur.com/gG4EsI0.jpg">
+    <img width="40%" height="40%" src="https://gfycat.com/sentimentalblaringfallowdeer">
   </a>
   <a href="https://github.com/eborghi10/webots_manipulation" target="_blank">
     <img width="40%" height="40%" src="https://media.giphy.com/media/xH901NDQhEEd5Yjs9Z/giphy.gif">
