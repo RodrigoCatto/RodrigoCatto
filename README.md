@@ -17,6 +17,7 @@
   </a>
   <a href="https://github.com/RoboticaUtnFrba/create_autonomy" target="_blank">
     <img width="40%" height="40%" src="https://gfycat.com/sentimentalblaringfallowdeer">
+    <div style='position:relative; padding-bottom:calc(31.25% + 44px)'><iframe src='https://gfycat.com/ifr/SentimentalBlaringFallowdeer' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
   </a>
   <a href="https://github.com/eborghi10/webots_manipulation" target="_blank">
     <img width="40%" height="40%" src="https://media.giphy.com/media/xH901NDQhEEd5Yjs9Z/giphy.gif">
