@@ -6,7 +6,7 @@
 
 - :book: Studied Mechatronics Engineering at INSPER, São Paulo, Brazil
 - :computer: Working as Junior Software Developer with computer vision and AI.
-- :teacher: I teach Robotics at the UTN
+- :teacher: [Contributor for the Weekly Robotics Newsletter](https://weeklyrobotics.com/)
 - :robot: My passion is building robots (with [ROS](https://www.ros.org/)!)
 
 #### Personal projects
