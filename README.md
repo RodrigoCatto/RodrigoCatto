@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://github.com/RodrigoCatto/McJetson" target="_blank">
-    <img width="40%" height="40%" src="https://thumbs.gfycat.com/SentimentalBlaringFallowdeer-size_restricted.gif">
+    <img width="80%" height="80%" src="https://thumbs.gfycat.com/SentimentalBlaringFallowdeer-size_restricted.gif">
   </a>
 </p>
 
