@@ -16,6 +16,10 @@
     <img width="40%" height="40%" src="https://github.com/RodrigoCatto/McJetson/blob/master/Images/McJetson_Render.png">
   </a>
   
-  <iframe src='https://gfycat.com/ifr/SentimentalBlaringFallowdeer' frameborder='0' scrolling='no' allowfullscreen width='640' height='244'></iframe>
+  <a href="https://github.com/RodrigoCatto/McJetson" target="_blank">
+    <img width="40%" height="40%" src="https://thumbs.gfycat.com/SentimentalBlaringFallowdeer-size_restricted.gif">
+  </a>
+
+
 
 </p>
