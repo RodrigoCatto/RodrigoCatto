@@ -15,11 +15,13 @@
   <a href="https://github.com/RodrigoCatto/McJetson" target="_blank">
     <img width="40%" height="40%" src="https://github.com/RodrigoCatto/McJetson/blob/master/Images/McJetson_Render.png">
   </a>
-  
+</p>
+
+<p align="center">
   <a href="https://github.com/RodrigoCatto/McJetson" target="_blank">
     <img width="40%" height="40%" src="https://thumbs.gfycat.com/SentimentalBlaringFallowdeer-size_restricted.gif">
   </a>
-
-
-
 </p>
+
+
+
