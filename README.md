@@ -15,19 +15,7 @@
   <a href="https://github.com/RodrigoCatto/McJetson" target="_blank">
     <img width="40%" height="40%" src="https://github.com/RodrigoCatto/McJetson/blob/master/Images/McJetson_Render.png">
   </a>
-  <a href="https://github.com/RoboticaUtnFrba/create_autonomy" target="_blank">
-    <img width="40%" height="40%" src="https://gfycat.com/sentimentalblaringfallowdeer">
-     </a>
   
-    <div style='position:relative; padding-bottom:calc(31.25% + 44px)'><iframe src='https://gfycat.com/ifr/SentimentalBlaringFallowdeer' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
- 
-  <a href="https://github.com/eborghi10/webots_manipulation" target="_blank">
-    <img width="40%" height="40%" src="https://media.giphy.com/media/xH901NDQhEEd5Yjs9Z/giphy.gif">
-  </a>
-  <a href="https://github.com/eborghi10/jps_global_planner" target="_blank">
-    <img width="40%" height="40%" src="https://i.imgur.com/W9n7bYE.png">
-  </a>
-  <a href="https://github.com/eborghi10/RCPSP" target="_blank">
-    <img width="40%" height="40%" src="https://i.imgur.com/dGdKW89.jpg">
-  </a>
+  <iframe src='https://gfycat.com/ifr/SentimentalBlaringFallowdeer' frameborder='0' scrolling='no' allowfullscreen width='640' height='244'></iframe>
+
 </p>
