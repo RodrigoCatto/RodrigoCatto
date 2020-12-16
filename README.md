@@ -12,8 +12,8 @@
 #### Personal projects
 
 <p align="center">
-  <a href="https://github.com/eborghi10/spot_quadruped_ros" target="_blank">
-    <img width="40%" height="40%" src="https://media.giphy.com/media/fodJ2gBu8NuQujM8rJ/giphy.gif">
+  <a href="https://github.com/RodrigoCatto/McJetson" target="_blank">
+    <img width="40%" height="40%" src="https://github.com/RodrigoCatto/McJetson/blob/master/Images/McJetson_Render.png">
   </a>
   <a href="https://github.com/RoboticaUtnFrba/create_autonomy" target="_blank">
     <img width="40%" height="40%" src="https://i.imgur.com/gG4EsI0.jpg">
