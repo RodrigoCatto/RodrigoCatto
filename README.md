@@ -1,16 +1,30 @@
-### Hi there 👋
+## Hi there 👋, I'm Rodrigo!
 
-<!--
-**RodrigoCatto/RodrigoCatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-lopes-catto/)
 
-Here are some ideas to get you started:
+#### About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :book: Studied Mechatronics Engineering at INSPER, São Paulo, Brazil
+- :computer: Working as Junior Software Developer with computer vision and AI.
+- :teacher: I teach Robotics at the UTN
+- :robot: My passion is building robots (with [ROS](https://www.ros.org/)!)
+
+#### Personal projects
+
+<p align="center">
+  <a href="https://github.com/eborghi10/spot_quadruped_ros" target="_blank">
+    <img width="40%" height="40%" src="https://media.giphy.com/media/fodJ2gBu8NuQujM8rJ/giphy.gif">
+  </a>
+  <a href="https://github.com/RoboticaUtnFrba/create_autonomy" target="_blank">
+    <img width="40%" height="40%" src="https://i.imgur.com/gG4EsI0.jpg">
+  </a>
+  <a href="https://github.com/eborghi10/webots_manipulation" target="_blank">
+    <img width="40%" height="40%" src="https://media.giphy.com/media/xH901NDQhEEd5Yjs9Z/giphy.gif">
+  </a>
+  <a href="https://github.com/eborghi10/jps_global_planner" target="_blank">
+    <img width="40%" height="40%" src="https://i.imgur.com/W9n7bYE.png">
+  </a>
+  <a href="https://github.com/eborghi10/RCPSP" target="_blank">
+    <img width="40%" height="40%" src="https://i.imgur.com/dGdKW89.jpg">
+  </a>
+</p>
