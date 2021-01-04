@@ -6,7 +6,7 @@
 
 - :book: Studied Mechatronics Engineering at INSPER, São Paulo, Brazil
 - :computer: Working as Junior Software Developer with computer vision and AI.
-- :teacher: Contributor for the [Weekly Robotics Newsletter](https://weeklyrobotics.com/) managed by [Mateusz Sadowski](https://github.com/msadowski)
+- :newsletter: Contributor for the [Weekly Robotics Newsletter](https://weeklyrobotics.com/) managed by [Mateusz Sadowski](https://github.com/msadowski)
 - :robot: My passion is building robots (with [ROS](https://www.ros.org/)!)
 - :tv: Here is my [Youtube Channel](https://www.youtube.com/channel/UCJXxabiK3j2SZip7zASt5PQ?view_as=subscriber)
 
