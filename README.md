@@ -14,17 +14,13 @@
 
 #### Personal projects
 
-<p align="center">
+<p float="left">
   <a href="https://github.com/RodrigoCatto/McJetson" target="_blank">
-    <img width="60% height="60%" src="https://github.com/RodrigoCatto/McJetson/blob/master/Images/McJetson_Render.png">
+    <img width="50% height="50" src="https://github.com/RodrigoCatto/McJetson/blob/master/Images/McJetson_Render.png">
+  </a>
+  <a href="https://github.com/RodrigoCatto/mcdillo" target="_blank">
+    <img width="40% height="40" src="https://raw.githubusercontent.com/RodrigoCatto/mcdillo/dev/media/mcdillo_render_front.png">
   </a>
 </p>
-
-<p align="center">
-  <a href="https://github.com/RodrigoCatto/McJetson" target="_blank">
-    <img width="80%" height="80%" src="https://thumbs.gfycat.com/SentimentalBlaringFallowdeer-size_restricted.gif">
-  </a>
-</p>
-
 
 
